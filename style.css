@@ -1,0 +1,74 @@
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+main{
+  background-color: rgb(0,0,0,0.5);
+  margin: auto;
+  width: 60%;
+  padding: 80px;
+  border-radius: 2%;
+}
+
+.logo{
+  height: 80px;
+  display: block;
+  margin: auto;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+nav{
+  background-color: limegreen;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+section{
+  margin: auto;
+  text-align: left;
+  color: white;
+  padding: 15px;
+}
+
+.contenitore{
+  margin: auto;
+}
+
+span{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+#rectangle1{
+  display: inline-block;
+  width: 120px;
+  height:20px;
+  background: orange;
+  background-position: center;
+  border-radius: 5%;
+}
+
+#rectangle2{
+  display: inline-block;
+  width: 200px;
+  height:20px;
+  background: limegreen;
+  background-position: center;
+  border-radius: 5%;
+}
+
+#rectangle3{
+  display: inline-block;
+  width: 50px;
+  height:20px;
+  background: red;
+  background-position: center;
+  border-radius: 5%;
+}
